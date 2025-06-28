@@ -90,4 +90,5 @@ public class AlunoModel extends PessoaModel {
     public void setCoordenacao(String coordenacao) {
         this.coordenacao = coordenacao;
     }
+
 }

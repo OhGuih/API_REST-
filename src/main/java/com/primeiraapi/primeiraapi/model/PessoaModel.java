@@ -56,4 +56,7 @@ public abstract class PessoaModel {
     public void setSexo(String sexo) {
         this.sexo = sexo;
     }
+
+    
+
 }
